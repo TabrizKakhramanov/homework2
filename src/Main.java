@@ -58,7 +58,5 @@ public class Main {
         workTimePerWorker=workTime/numberOfWorkers;
         System.out.println("Если в компании работает "+numberOfWorkers+" человек, то всего "+workTimePerWorker+" часов работы может быть поделено между сотрудниками");
 
-
-
     }
 }
